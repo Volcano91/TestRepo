@@ -8,5 +8,6 @@ module idea.projects {
     requires subtitle;
     requires lombok;
 
+
 }
 
